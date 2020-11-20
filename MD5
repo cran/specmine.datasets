@@ -1,0 +1,14 @@
+6b8fa6f3c82dfccbc6ecebe768edd574 *DESCRIPTION
+b5b2e20c75457107297b566908b8c29d *NAMESPACE
+b607c48ec8d824294616dea550978431 *R/data.R
+5eb2401a080b116abc4d5596ecab54f1 *README.md
+4b1fcc30e09aaaf15c30e59cf80d9919 *data/cachexia.rda
+7f648a83c82aef86d6eac9bf670a04e6 *data/cassavaPPD.rda
+e3b6805ad36dea31c589921203cda829 *data/propolis.rda
+45e607b38f740aa56fca66b5dbec24d4 *data/propolisSampleList.rda
+ea99522fefa7f89f5c091ba4e21e909b *data/spinalCord.rda
+fc7983b9cb9097d5452154c179581c52 *man/cachexia.Rd
+4684c20b64745a0a0166c438cdc39cf5 *man/cassavaPPD.Rd
+36d5cd664c0adcb1199d6c813a07175c *man/propolis.Rd
+881d28d140fb17a951932a2305269478 *man/propolisSampleList.Rd
+64c81b89371cb1c0304905b296721b29 *man/spinalCord.Rd
